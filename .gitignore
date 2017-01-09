@@ -1,3 +1,4 @@
 *.tfvars
+# Compiled files
 *.tfstate
 *.tfstate.backup
